@@ -2,5 +2,5 @@
 entries:
   - archetype:
       description: Spring Cloud - API Gateway
-      source: git@github.com:archetect/archetype-spring-boot-gateway.git
+      source: https://github.com/archetect/archetype-spring-boot-gateway.git
 
